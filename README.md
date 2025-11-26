@@ -161,6 +161,10 @@ OPENAI_API_KEY=sk-proj-AbCdEfGhIjKlMnOpQrStUvWxYz1234567890AbCdEfGhIjKlMnOpQrStU
    - Add your production domain for deployment
 5. (Optional) Customize the appearance in Clerk Dashboard → Customization
 
+```bash
+pnpm add @clerk/nextjs 
+```
+
 ### 4) Configure Sanity
 
 1. Create a Sanity account at [Sanity](https://www.sanity.io/sonny?utm_source=youtube&utm_medium=video&utm_content=next-gen-portfolio)
